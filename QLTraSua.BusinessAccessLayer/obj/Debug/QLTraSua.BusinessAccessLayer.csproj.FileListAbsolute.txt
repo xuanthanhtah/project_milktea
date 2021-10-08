@@ -10,3 +10,15 @@ D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUW
 D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
 D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
 D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
