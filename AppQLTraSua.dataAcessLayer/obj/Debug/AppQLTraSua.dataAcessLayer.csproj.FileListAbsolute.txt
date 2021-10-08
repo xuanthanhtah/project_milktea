@@ -1,0 +1,12 @@
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.dll
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.xml
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.AssemblyReference.cache
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CoreCompileInputs.cache
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CopyComplete
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.pdb
