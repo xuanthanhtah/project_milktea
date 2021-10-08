@@ -57,3 +57,4 @@ D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUW
 D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QuanLyTiemTraSuaUWU\bin\Debug\EntityFramework.SqlServer.dll
 D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QuanLyTiemTraSuaUWU\bin\Debug\EntityFramework.SqlServer.xml
 D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmmain.resources
+D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmdangky.resources

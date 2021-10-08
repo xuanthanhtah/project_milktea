@@ -127,6 +127,7 @@ namespace QuanLyTiemTraSuaUWU
             this.btnDangKy.Size = new System.Drawing.Size(129, 43);
             this.btnDangKy.TabIndex = 6;
             this.btnDangKy.Text = "Đăng Ký";
+            this.btnDangKy.Click += new System.EventHandler(this.btnDangKy_Click);
             // 
             // btnDangNhap
             // 

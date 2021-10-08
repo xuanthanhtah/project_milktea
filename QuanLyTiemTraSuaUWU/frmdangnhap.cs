@@ -59,5 +59,11 @@ namespace QuanLyTiemTraSuaUWU
         {
             txtMatKhau.PasswordChar = tspass.Checked ? '\0' : '*';
         }
+
+        private void btnDangKy_Click(object sender, EventArgs e)
+        {
+            frmdangky frmdangky = new frmdangky();
+            frmdangky.Show();
+        }
     }
 }
