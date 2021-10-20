@@ -116,6 +116,7 @@ namespace QuanLyTiemTraSuaUWU
             this.btnDong.Size = new System.Drawing.Size(107, 45);
             this.btnDong.TabIndex = 2;
             this.btnDong.Text = "Đóng";
+            this.btnDong.Click += new System.EventHandler(this.btnDong_Click);
             // 
             // guna2GradientTileButton1
             // 
@@ -157,6 +158,7 @@ namespace QuanLyTiemTraSuaUWU
             this.chklsbBanTrong.Name = "chklsbBanTrong";
             this.chklsbBanTrong.Size = new System.Drawing.Size(293, 188);
             this.chklsbBanTrong.TabIndex = 0;
+            this.chklsbBanTrong.SelectedIndexChanged += new System.EventHandler(this.chklsbBanTrong_SelectedIndexChanged);
             // 
             // groupBox2
             // 
@@ -189,7 +191,8 @@ namespace QuanLyTiemTraSuaUWU
             this.txtNhapTenBan.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.txtNhapTenBan.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtNhapTenBan.FocusedState.Parent = this.txtNhapTenBan;
-            this.txtNhapTenBan.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtNhapTenBan.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNhapTenBan.ForeColor = System.Drawing.Color.Black;
             this.txtNhapTenBan.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtNhapTenBan.HoverState.Parent = this.txtNhapTenBan;
             this.txtNhapTenBan.Location = new System.Drawing.Point(232, 80);
@@ -221,6 +224,7 @@ namespace QuanLyTiemTraSuaUWU
             this.Controls.Add(this.label1);
             this.Name = "frmBan";
             this.Text = "frmBan";
+            this.Load += new System.EventHandler(this.frmBan_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.ResumeLayout(false);

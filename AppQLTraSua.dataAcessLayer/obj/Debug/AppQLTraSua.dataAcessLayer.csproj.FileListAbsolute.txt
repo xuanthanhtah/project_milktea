@@ -10,3 +10,15 @@ D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUW
 D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CopyComplete
 D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.dll
 D:\hutech\Lập trình trên môi trường Windows\đồ án\QuanLyTiemTraSuaUWU\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.xml
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CopyComplete
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.pdb
