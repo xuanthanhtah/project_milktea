@@ -12,11 +12,30 @@ namespace QuanLyTiemTraSuaUWU
 {
     public partial class frmBan : Form
     {
+        TraSua ts = new TraSua();
         public frmBan()
         {
             InitializeComponent();
         }
-
+        void HienThiBanChuaSD()
+        {
+            chklsbBanTrong.Items.Clear();
+            DataTable dt = ts.LayDSChuaSD();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                chklsbBanTrong.Items.Add(dt.Rows[i][0].ToString());
+            }
+        }
+        void HienThiBanDangSD()
+        {
+            chklsbBanDangSD.Items.Clear();
+            DataTable dt = ts.LayDSBanDangSD();
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                chklsbBanDangSD.Items.Add(dt.Rows[i][0].ToString());
+            }
+        }
+    
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
@@ -24,43 +43,47 @@ namespace QuanLyTiemTraSuaUWU
 
         private void btnThemBan_Click(object sender, EventArgs e)
         {
-            chklsbBanTrong.Items.Add(txtNhapTenBan.Text);
+            ts.ThemBan(txtNhapTenBan.Text);
+            MessageBox.Show("Thêm Bàn Thành Công");
+            HienThiBanChuaSD();
         }
 
         private void btnXoaBan_Click(object sender, EventArgs e)
         {
             for (int i = 0; i < chklsbBanTrong.Items.Count; i++)
             {
-                if (chklsbBanTrong.GetItemChecked(i))
-                    chklsbBanTrong.Items.RemoveAt(i);
+                if (chklsbBanTrong.SelectedIndex== i)
+                {
+                    ts.XoaBan(chklsbBanTrong.Items[i].ToString());
+                    MessageBox.Show("Xóa Bàn Thành Công");
+                }
             }
+            HienThiBanChuaSD();
+            
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            for (int i = 0; i < chklsbBanTrong.Items.Count; i++)
-            {
-                if(chklsbBanTrong.GetItemChecked(i))
-                {
-                    chklsbBanDangSD.Items.Add(chklsbBanTrong.Items[i]);
-                    chklsbBanDangSD.Items.RemoveAt(i);
-                }    
-            }
-
             for (int i = 0; i < chklsbBanDangSD.Items.Count; i++)
             {
                 chklsbBanDangSD.SetItemChecked(i, true);
             }
+        }
 
-            for (int i = 0; i < chklsbBanDangSD.Items.Count; i++)
-            {
-                if (chklsbBanDangSD.SelectedIndex == i)
-                {
-                    chklsbBanTrong.Items.Add(chklsbBanDangSD.Items[i]);
-                    chklsbBanDangSD.Items.RemoveAt(i);
-                }    
+        private void frmBan_Load(object sender, EventArgs e)
+        {
+            HienThiBanChuaSD();
+            HienThiBanDangSD();
+        }
 
-            }
+        private void btnDong_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void chklsbBanTrong_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }
