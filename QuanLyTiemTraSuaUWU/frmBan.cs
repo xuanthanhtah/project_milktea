@@ -66,7 +66,7 @@ namespace QuanLyTiemTraSuaUWU
         {
             kt = KiemTraTrung(txtNhapTenBan.Text);
             dem = ktrachuoi(txtNhapTenBan.Text);
-            if (dem > 0)
+            if (dem > 10)
             {
                 MessageBox.Show("Tên Bàn không quá 10 ký tự");
             }    
