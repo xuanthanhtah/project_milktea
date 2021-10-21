@@ -40,9 +40,28 @@ namespace QuanLyTiemTraSuaUWU
         }
         public void XoaBan(string maban)
         {
-            string sql = string.Format("Update Ban SET TrangThai = N'Đã Hủy' where MaBan = N'{0}')",maban);
+
+            string sql = string.Format("Update BAN SET TrangThai=N'Đã Hủy' WHERE MABAN=N'{0}'", maban);
             db.ExecuteNonQuery(sql);
-      
+
         }
+        public void LeftToRight(string maban)
+        {
+            string sql = string.Format("Update BAN SET TrangThai=N'ĐangSD' WHERE MABAN=N'{0}'", maban);
+            db.ExecuteNonQuery(sql);
+        }
+        public void RightToLeft(string maban)
+        {
+            string sql = string.Format("Update BAN SET TrangThai=N'ChưaSD' WHERE MABAN=N'{0}'", maban);
+            db.ExecuteNonQuery(sql);
+        }
+        public DataTable LayTatCaBan()
+        {
+            string strSQL = "select * from BAN";
+            DataTable dt = db.Execute(strSQL);
+            //Goi phuong thuc truy xuat DL
+            return dt;
+        }
+
     }
 }
