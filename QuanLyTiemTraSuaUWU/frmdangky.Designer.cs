@@ -32,17 +32,18 @@ namespace QuanLyTiemTraSuaUWU
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             this.txtTenDangNhap = new Guna.UI2.WinForms.Guna2TextBox();
             this.txtTaoMk = new Guna.UI2.WinForms.Guna2TextBox();
             this.txtnhaplaimk = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2PictureBox1 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.btnHoanthanh = new Guna.UI2.WinForms.Guna2Button();
             this.btnxoa = new Guna.UI2.WinForms.Guna2Button();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.label5 = new System.Windows.Forms.Label();
             this.tsdangky = new Guna.UI2.WinForms.Guna2ToggleSwitch();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.label4 = new System.Windows.Forms.Label();
+            this.btnDong = new Guna.UI2.WinForms.Guna2Button();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -76,16 +77,6 @@ namespace QuanLyTiemTraSuaUWU
             this.label3.TabIndex = 2;
             this.label3.Text = "Nhập lại mật khẩu :";
             // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(54, 220);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(93, 25);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "Giới tính :";
-            // 
             // txtTenDangNhap
             // 
             this.txtTenDangNhap.BorderRadius = 6;
@@ -98,10 +89,11 @@ namespace QuanLyTiemTraSuaUWU
             this.txtTenDangNhap.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.txtTenDangNhap.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtTenDangNhap.FocusedState.Parent = this.txtTenDangNhap;
-            this.txtTenDangNhap.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtTenDangNhap.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTenDangNhap.ForeColor = System.Drawing.Color.Black;
             this.txtTenDangNhap.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtTenDangNhap.HoverState.Parent = this.txtTenDangNhap;
-            this.txtTenDangNhap.Location = new System.Drawing.Point(249, 43);
+            this.txtTenDangNhap.Location = new System.Drawing.Point(249, 46);
             this.txtTenDangNhap.Name = "txtTenDangNhap";
             this.txtTenDangNhap.PasswordChar = '\0';
             this.txtTenDangNhap.PlaceholderText = "";
@@ -122,7 +114,8 @@ namespace QuanLyTiemTraSuaUWU
             this.txtTaoMk.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.txtTaoMk.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtTaoMk.FocusedState.Parent = this.txtTaoMk;
-            this.txtTaoMk.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtTaoMk.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTaoMk.ForeColor = System.Drawing.Color.Black;
             this.txtTaoMk.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtTaoMk.HoverState.Parent = this.txtTaoMk;
             this.txtTaoMk.Location = new System.Drawing.Point(249, 97);
@@ -147,7 +140,8 @@ namespace QuanLyTiemTraSuaUWU
             this.txtnhaplaimk.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
             this.txtnhaplaimk.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtnhaplaimk.FocusedState.Parent = this.txtnhaplaimk;
-            this.txtnhaplaimk.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtnhaplaimk.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtnhaplaimk.ForeColor = System.Drawing.Color.Black;
             this.txtnhaplaimk.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtnhaplaimk.HoverState.Parent = this.txtnhaplaimk;
             this.txtnhaplaimk.Location = new System.Drawing.Point(249, 161);
@@ -213,6 +207,17 @@ namespace QuanLyTiemTraSuaUWU
             this.btnxoa.Text = "Xóa";
             this.btnxoa.Click += new System.EventHandler(this.btnxoa_Click);
             // 
+            // radioButton2
+            // 
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.Location = new System.Drawing.Point(309, 228);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(47, 21);
+            this.radioButton2.TabIndex = 17;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "Nữ";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -241,6 +246,7 @@ namespace QuanLyTiemTraSuaUWU
             this.tsdangky.UncheckedState.InnerBorderColor = System.Drawing.Color.White;
             this.tsdangky.UncheckedState.InnerColor = System.Drawing.Color.White;
             this.tsdangky.UncheckedState.Parent = this.tsdangky;
+            this.tsdangky.CheckedChanged += new System.EventHandler(this.tsdangky_CheckedChanged);
             // 
             // radioButton1
             // 
@@ -254,22 +260,43 @@ namespace QuanLyTiemTraSuaUWU
             this.radioButton1.Text = "Nam";
             this.radioButton1.UseVisualStyleBackColor = true;
             // 
-            // radioButton2
+            // label4
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(309, 228);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(47, 21);
-            this.radioButton2.TabIndex = 17;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "Nữ";
-            this.radioButton2.UseVisualStyleBackColor = true;
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(54, 220);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(93, 25);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Giới tính :";
+            // 
+            // btnDong
+            // 
+            this.btnDong.BorderRadius = 12;
+            this.btnDong.CheckedState.Parent = this.btnDong;
+            this.btnDong.CustomImages.Parent = this.btnDong;
+            this.btnDong.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnDong.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnDong.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnDong.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnDong.DisabledState.Parent = this.btnDong;
+            this.btnDong.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnDong.ForeColor = System.Drawing.Color.White;
+            this.btnDong.HoverState.Parent = this.btnDong;
+            this.btnDong.Location = new System.Drawing.Point(567, 267);
+            this.btnDong.Name = "btnDong";
+            this.btnDong.ShadowDecoration.Parent = this.btnDong;
+            this.btnDong.Size = new System.Drawing.Size(119, 35);
+            this.btnDong.TabIndex = 18;
+            this.btnDong.Text = "Đóng";
+            this.btnDong.Click += new System.EventHandler(this.btnDong_Click);
             // 
             // frmdangky
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(718, 351);
+            this.Controls.Add(this.btnDong);
             this.Controls.Add(this.radioButton2);
             this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.tsdangky);
@@ -298,16 +325,17 @@ namespace QuanLyTiemTraSuaUWU
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
         private Guna.UI2.WinForms.Guna2TextBox txtTenDangNhap;
         private Guna.UI2.WinForms.Guna2TextBox txtTaoMk;
         private Guna.UI2.WinForms.Guna2TextBox txtnhaplaimk;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2Button btnHoanthanh;
         private Guna.UI2.WinForms.Guna2Button btnxoa;
+        private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.Label label5;
         private Guna.UI2.WinForms.Guna2ToggleSwitch tsdangky;
         private System.Windows.Forms.RadioButton radioButton1;
-        private System.Windows.Forms.RadioButton radioButton2;
+        private System.Windows.Forms.Label label4;
+        private Guna.UI2.WinForms.Guna2Button btnDong;
     }
 }

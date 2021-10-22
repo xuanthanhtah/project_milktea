@@ -119,5 +119,11 @@ namespace QuanLyTiemTraSuaUWU
             //Goi phuong thuc truy xuat DL
             return dt;
         }
+        public void ThemDangKy(string gioitinh, string machucvu,string taikhoan,string matkhau)
+        {
+            string sql = string.Format("insert into NHANVIEN(GioiTinh,MaChucVu,TaiKhoan,MatKhau) values(N'{0}','{1}','{2}','{3}')",
+                                    gioitinh, machucvu, taikhoan, matkhau);
+            db.ExecuteNonQuery(sql);
+        }
     }
 }
