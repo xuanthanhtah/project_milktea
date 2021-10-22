@@ -168,3 +168,4 @@ E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.csproj.Gene
 E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.csproj.CoreCompileInputs.cache
 E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.exe
 E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.pdb
+E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmHoaDon.resources

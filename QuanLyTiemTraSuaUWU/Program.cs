@@ -16,7 +16,7 @@ namespace QuanLyTiemTraSuaUWU
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBan());
+            Application.Run(new frmHoaDon());
         }
     }
 }
