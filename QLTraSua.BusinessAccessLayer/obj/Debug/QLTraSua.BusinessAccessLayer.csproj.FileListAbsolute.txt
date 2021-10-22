@@ -22,3 +22,15 @@ C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\
 C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
 C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
 C:\Users\daonh\OneDrive\Máy tính\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\LapTrinhWindow\Do_An_Winform\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
