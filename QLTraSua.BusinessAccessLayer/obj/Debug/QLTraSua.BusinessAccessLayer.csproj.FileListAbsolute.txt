@@ -34,3 +34,15 @@ E:\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAcces
 E:\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
 E:\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
 E:\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
