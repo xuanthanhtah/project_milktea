@@ -79,6 +79,7 @@ namespace QuanLyTiemTraSuaUWU
             this.hÓAĐƠNToolStripMenuItem.Name = "hÓAĐƠNToolStripMenuItem";
             this.hÓAĐƠNToolStripMenuItem.Size = new System.Drawing.Size(153, 41);
             this.hÓAĐƠNToolStripMenuItem.Text = "HÓA ĐƠN";
+            this.hÓAĐƠNToolStripMenuItem.Click += new System.EventHandler(this.hÓAĐƠNToolStripMenuItem_Click);
             // 
             // frmmain
             // 

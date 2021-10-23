@@ -170,3 +170,4 @@ E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.exe
 E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.pdb
 E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmHoaDon.resources
 C:\Users\daonh\OneDrive\Máy tính\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmHoaDon.resources
+C:\Users\daonh\OneDrive\Máy tính\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmDoanhThu.resources
