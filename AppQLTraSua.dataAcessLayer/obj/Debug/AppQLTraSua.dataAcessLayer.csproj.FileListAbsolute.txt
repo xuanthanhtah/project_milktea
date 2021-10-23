@@ -22,15 +22,15 @@ C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\ob
 C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CopyComplete
 C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.dll
 C:\Users\daonh\OneDrive\Máy tính\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.pdb
-E:\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
-E:\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
-E:\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
-E:\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.dll
-E:\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
-E:\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.xml
-E:\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
-E:\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.AssemblyReference.cache
-E:\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CoreCompileInputs.cache
-E:\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CopyComplete
-E:\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.dll
-E:\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.AssemblyReference.cache
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CoreCompileInputs.cache
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.xml
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CopyComplete

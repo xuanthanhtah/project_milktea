@@ -113,60 +113,59 @@ C:\Users\daonh\OneDrive\Máy tính\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug
 C:\Users\daonh\OneDrive\Máy tính\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.csproj.CoreCompileInputs.cache
 C:\Users\daonh\OneDrive\Máy tính\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.exe
 C:\Users\daonh\OneDrive\Máy tính\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.pdb
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\QuanLyTiemTraSuaUWU.exe.config
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\QuanLyTiemTraSuaUWU.exe
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\QuanLyTiemTraSuaUWU.pdb
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\AppQLTraSua.dataAcessLayer.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\EntityFramework.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\EntityFramework.SqlServer.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\Guna.UI2.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\QLTraSua.BusinessAccessLayer.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Data.v19.2.xml
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Printing.v19.2.Core.xml
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Utils.v19.2.xml
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.XtraEditors.v19.2.xml
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\EntityFramework.xml
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\EntityFramework.SqlServer.xml
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.csproj.AssemblyReference.cache
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmBan.resources
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmdangky.resources
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmdangnhap.resources
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmmain.resources
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.FrmMenu.resources
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.Properties.Resources.resources
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.csproj.GenerateResource.cache
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.csproj.CoreCompileInputs.cache
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.exe
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.pdb
-E:\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmHoaDon.resources
-C:\Users\daonh\OneDrive\Máy tính\project_milktea\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmHoaDon.resources
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\QuanLyTiemTraSuaUWU.exe.config
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\QuanLyTiemTraSuaUWU.exe
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\QuanLyTiemTraSuaUWU.pdb
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Data.v19.2.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\EntityFramework.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\EntityFramework.SqlServer.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\Guna.UI2.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Data.v19.2.xml
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\EntityFramework.xml
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\EntityFramework.SqlServer.xml
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmBan.resources
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmdangky.resources
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmdangnhap.resources
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.frmmain.resources
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.FrmMenu.resources
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.Properties.Resources.resources
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.csproj.GenerateResource.cache
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.csproj.CoreCompileInputs.cache
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.csproj.CopyComplete
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.exe
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.pdb
+D:\hutech\Lập trình trên môi trường Windows\Do an 2\project_milktea-master\QuanLyTiemTraSuaUWU\obj\Debug\QuanLyTiemTraSuaUWU.csproj.AssemblyReference.cache

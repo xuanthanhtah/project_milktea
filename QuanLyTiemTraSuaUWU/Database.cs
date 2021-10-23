@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 using System.Data.SqlClient;
 using System.Data;
 
@@ -17,7 +18,7 @@ namespace QuanLyTiemTraSuaUWU
         public Database()
         {
             string strCnn = "Data Source=DESKTOP-FNPS5K6 ; Database=QLTraSuaUwU; UID=sa; PWD=123456; Integrated Security = True";
-        
+
             sqlConn = new SqlConnection(strCnn);
         }
         //Phuong thuc de thuc hien cau lenh strSQL truy vân du lieu
@@ -32,7 +33,8 @@ namespace QuanLyTiemTraSuaUWU
         public void ExecuteNonQuery(string strSQL)
         {
             SqlCommand sqlcmd = new SqlCommand(strSQL, sqlConn);
-            sqlConn.Open(); //Mo ket noi
+            sqlConn.Open(); //Mo ket noiSystem.Data.SqlClient.SqlException: 'A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)'
+
             sqlcmd.ExecuteNonQuery();//Lenh hien lenh Them/Xoa/Sua
             sqlConn.Close();//Dong ket noi
         }

@@ -29,11 +29,13 @@ namespace QuanLyTiemTraSuaUWU
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmmain));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.mENUToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.bÀNToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.qUẢNLÝToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hÓAĐƠNToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cHITIẾTHÓAĐƠNToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -47,7 +49,7 @@ namespace QuanLyTiemTraSuaUWU
             this.hÓAĐƠNToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(923, 45);
+            this.menuStrip1.Size = new System.Drawing.Size(1002, 45);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -75,18 +77,27 @@ namespace QuanLyTiemTraSuaUWU
             // 
             // hÓAĐƠNToolStripMenuItem
             // 
+            this.hÓAĐƠNToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.cHITIẾTHÓAĐƠNToolStripMenuItem});
             this.hÓAĐƠNToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 16F);
             this.hÓAĐƠNToolStripMenuItem.Name = "hÓAĐƠNToolStripMenuItem";
             this.hÓAĐƠNToolStripMenuItem.Size = new System.Drawing.Size(153, 41);
             this.hÓAĐƠNToolStripMenuItem.Text = "HÓA ĐƠN";
             // 
+            // cHITIẾTHÓAĐƠNToolStripMenuItem
+            // 
+            this.cHITIẾTHÓAĐƠNToolStripMenuItem.Name = "cHITIẾTHÓAĐƠNToolStripMenuItem";
+            this.cHITIẾTHÓAĐƠNToolStripMenuItem.Size = new System.Drawing.Size(336, 42);
+            this.cHITIẾTHÓAĐƠNToolStripMenuItem.Text = "CHI TIẾT HÓA ĐƠN";
+            // 
             // frmmain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(923, 579);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(1002, 500);
             this.Controls.Add(this.menuStrip1);
-            this.IsMdiContainer = true;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmmain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -107,5 +118,6 @@ namespace QuanLyTiemTraSuaUWU
         private System.Windows.Forms.ToolStripMenuItem bÀNToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem qUẢNLÝToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem hÓAĐƠNToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem cHITIẾTHÓAĐƠNToolStripMenuItem;
     }
 }
