@@ -41,5 +41,15 @@ namespace QuanLyTiemTraSuaUWU
                 frm.Activate();
             }
         }
+
+        private void hÓAĐƠNToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dOANHTHUToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

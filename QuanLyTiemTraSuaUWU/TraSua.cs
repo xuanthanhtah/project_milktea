@@ -31,7 +31,8 @@ namespace QuanLyTiemTraSuaUWU
             //Goi phuong thuc truy xuat DL
             return dt;
         }
-
+        
+        
         public void ThemBan(string maban)
         {
 
@@ -62,6 +63,7 @@ namespace QuanLyTiemTraSuaUWU
             //Goi phuong thuc truy xuat DL
             return dt;
         }
+       
         // xóa thông tin mã món ăn trong cthd
         public void xoaMaMonAnCTHD(string maHoaDon)
         {
@@ -124,6 +126,23 @@ namespace QuanLyTiemTraSuaUWU
             string sql = string.Format("insert into NHANVIEN(GioiTinh,MaChucVu,TaiKhoan,MatKhau) values(N'{0}','{1}','{2}','{3}')",
                                     gioitinh, machucvu, taikhoan, matkhau);
             db.ExecuteNonQuery(sql);
+        }
+
+        public DataTable LayDSHoaDonChoDoanhThuHomNay()
+        {
+            DateTime now = DateTime.Now;
+            string ngay = String.Format("{0:MM/dd/yyyy}",now);
+            string sql = string.Format("select * from HOADON where NgayXuatHoaDon= '{0}'",ngay);
+            DataTable dt = db.Execute(sql);
+            //Goi phuong thuc truy xuat DL
+            return dt;
+        }
+        public DataTable LayDSHoaDonChoDoanhThuTuNgayDenNgay(string tungay,string denngay)
+        {
+            string sql = string.Format("select * from HOADON where NgayXuatHoaDon between '{0}' and '{1}'",tungay,denngay);
+            DataTable dt = db.Execute(sql);
+            //Goi phuong thuc truy xuat DL
+            return dt;
         }
     }
 }
