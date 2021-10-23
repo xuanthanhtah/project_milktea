@@ -1,5 +1,4 @@
-﻿using AppQLTraSua.dataAcessLayer;
-using QLTraSua.BusinessAccessLayer;
+﻿
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

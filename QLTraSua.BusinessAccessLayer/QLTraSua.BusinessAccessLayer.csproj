@@ -44,11 +44,5 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="taikhoanBAL.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AppQLTraSua.dataAcessLayer\AppQLTraSua.dataAcessLayer.csproj">
-      <Project>{ef5e6040-f383-4358-9051-c730d8c4e730}</Project>
-      <Name>AppQLTraSua.dataAcessLayer</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

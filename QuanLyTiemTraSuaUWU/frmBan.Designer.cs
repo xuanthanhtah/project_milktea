@@ -179,7 +179,6 @@ namespace QuanLyTiemTraSuaUWU
             this.chklsbBanDangSD.Name = "chklsbBanDangSD";
             this.chklsbBanDangSD.Size = new System.Drawing.Size(293, 188);
             this.chklsbBanDangSD.TabIndex = 0;
-            this.chklsbBanDangSD.SelectedIndexChanged += new System.EventHandler(this.chklsbBanDangSD_SelectedIndexChanged);
             // 
             // txtNhapTenBan
             // 
@@ -208,7 +207,6 @@ namespace QuanLyTiemTraSuaUWU
             // timer1
             // 
             this.timer1.Enabled = true;
-            this.timer1.Interval = 500;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // frmBan

@@ -54,6 +54,8 @@
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -84,12 +86,6 @@
     <Compile Include="frmdangnhap.Designer.cs">
       <DependentUpon>frmdangnhap.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmHoaDon.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmHoaDon.Designer.cs">
-      <DependentUpon>frmHoaDon.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmmain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,8 +98,18 @@
     <Compile Include="FrmMenu.Designer.cs">
       <DependentUpon>FrmMenu.cs</DependentUpon>
     </Compile>
+    <Compile Include="models\BAN.cs" />
+    <Compile Include="models\CHUCVU.cs" />
+    <Compile Include="models\CTHD.cs" />
+    <Compile Include="models\dbquanlytrasua.cs" />
+    <Compile Include="models\HOADON.cs" />
+    <Compile Include="models\KHACHHANG.cs" />
+    <Compile Include="models\MENU.cs" />
+    <Compile Include="models\NHANVIEN.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="taikhoanBAL.cs" />
+    <Compile Include="taikhoanDAL.cs" />
     <Compile Include="TraSua.cs" />
     <EmbeddedResource Include="frmBan.resx">
       <DependentUpon>frmBan.cs</DependentUpon>
@@ -113,9 +119,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmdangnhap.resx">
       <DependentUpon>frmdangnhap.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmHoaDon.resx">
-      <DependentUpon>frmHoaDon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmmain.resx">
       <DependentUpon>frmmain.cs</DependentUpon>
@@ -195,16 +198,7 @@
   <ItemGroup>
     <None Include="Resources\tra sua chan trau hoàng gia.jpg" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AppQLTraSua.dataAcessLayer\AppQLTraSua.dataAcessLayer.csproj">
-      <Project>{EF5E6040-F383-4358-9051-C730D8C4E730}</Project>
-      <Name>AppQLTraSua.dataAcessLayer</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\QLTraSua.BusinessAccessLayer\QLTraSua.BusinessAccessLayer.csproj">
-      <Project>{4D641314-5E06-489C-BB98-E1FA3782FE38}</Project>
-      <Name>QLTraSua.BusinessAccessLayer</Name>
-    </ProjectReference>
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

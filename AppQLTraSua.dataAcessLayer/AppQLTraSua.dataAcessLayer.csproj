@@ -50,9 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AppQLTraSuaModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="entities\TaiKhoan.cs" />
     <Compile Include="taikhoanDAL.cs" />
   </ItemGroup>
   <ItemGroup>

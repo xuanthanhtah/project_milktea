@@ -33,7 +33,7 @@ namespace QuanLyTiemTraSuaUWU
             if (frm == null)
             {
                 FrmMenu frmMenu = new FrmMenu();
-                frmMenu.MdiParent = this;
+                //frmMenu.MdiParent = this;
                 frmMenu.Show();
             }
             else

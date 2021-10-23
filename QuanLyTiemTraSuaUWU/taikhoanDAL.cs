@@ -1,12 +1,11 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-u
+using QuanLyTiemTraSuaUWU.models;
 
-namespace AppQLTraSua.dataAcessLayer
+namespace QuanLyTiemTraSuaUWU
 {
     public class taikhoanDAL
     {
@@ -15,7 +14,7 @@ namespace AppQLTraSua.dataAcessLayer
             error = string.Empty;
             try
             {
-                using (var dbcontext = new dbQLTraSuauwu())
+                using (var dbcontext = new dbquanlytrasua())
                 {
                     return dbcontext.NHANVIENs.Any(tk => tk.TaiKhoan == userName && tk.MatKhau == password);
                 }
