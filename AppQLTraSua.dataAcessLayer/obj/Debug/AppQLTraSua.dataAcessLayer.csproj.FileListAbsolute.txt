@@ -46,3 +46,15 @@ C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\AppQLTraSua.dataAcessLa
 C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CopyComplete
 C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.dll
 C:\Users\Admin\OneDrive\Documents\GitHub\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Users\ASUS\OneDrive\Desktop\project_milktea\AppQLTraSua.dataAcessLayer\obj\Debug\AppQLTraSua.dataAcessLayer.pdb

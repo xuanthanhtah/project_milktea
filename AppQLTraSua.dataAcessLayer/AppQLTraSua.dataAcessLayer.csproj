@@ -50,9 +50,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AppQLTraSuaModel.cs" />
+    <Compile Include="models\BAN.cs" />
+    <Compile Include="models\CHUCVU.cs" />
+    <Compile Include="models\CTHD.cs" />
+    <Compile Include="models\dbqltrasuauwu.cs" />
+    <Compile Include="models\HOADON.cs" />
+    <Compile Include="models\KHACHHANG.cs" />
+    <Compile Include="models\MENU.cs" />
+    <Compile Include="models\NHANVIEN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="entities\TaiKhoan.cs" />
     <Compile Include="taikhoanDAL.cs" />
   </ItemGroup>
   <ItemGroup>

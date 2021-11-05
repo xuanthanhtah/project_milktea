@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using AppQLTraSua.dataAcessLayer.models;
 namespace AppQLTraSua.dataAcessLayer
 {
     public class taikhoanDAL
@@ -13,9 +13,9 @@ namespace AppQLTraSua.dataAcessLayer
             error = string.Empty;
             try
             {
-                using (var dbcontext = new AppQLTraSuaModel())
+                using (var dbcontext = new dbqltrasuauwu())
                 {
-                    return dbcontext.TaiKhoans.Any(tk => tk.UserName == userName && tk.Password == password);
+                    return dbcontext.NHANVIENs.Any(tk => tk.TaiKhoan == userName && tk.MatKhau == password);
                 }
             }
             catch (Exception ex)

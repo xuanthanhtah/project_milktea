@@ -1,4 +1,4 @@
-﻿using QuanLyTiemTraSuaUWU.DataE;
+﻿
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using AppQLTraSua.dataAcessLayer.models;
 namespace QuanLyTiemTraSuaUWU
 {
     public partial class frmNhanVien : Form
@@ -25,7 +25,7 @@ namespace QuanLyTiemTraSuaUWU
         {
             List<NHANVIEN> danhSachNhanVien;
 
-            using (var dbcontext = new QuanTraSuaUwu())
+            using (var dbcontext = new dbqltrasuauwu())
             {
                 danhSachNhanVien = dbcontext.NHANVIENs.ToList();
             }
@@ -85,7 +85,7 @@ namespace QuanLyTiemTraSuaUWU
 
             try
             {
-                using (var dbcontext = new QuanTraSuaUwu())
+                using (var dbcontext = new dbqltrasuauwu())
                 {
                     dbcontext.NHANVIENs.Add(nv);
                     dbcontext.SaveChanges();// done
@@ -105,7 +105,7 @@ namespace QuanLyTiemTraSuaUWU
 
             try
             {
-                using (var dbcontext = new QuanTraSuaUwu())
+                using (var dbcontext = new dbqltrasuauwu())
                 {
 
                     var nhanVien = (from a in dbcontext.NHANVIENs
@@ -143,7 +143,7 @@ namespace QuanLyTiemTraSuaUWU
         {
             try
             {
-                using (var dbcontext = new QuanTraSuaUwu())
+                using (var dbcontext = new dbqltrasuauwu())
                 {
                     var nhanVien = (from nv in dbcontext.NHANVIENs
                                     where nv.MANV == maNV

@@ -35,7 +35,6 @@ namespace QuanLyTiemTraSuaUWU
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
             this.tspass = new Guna.UI2.WinForms.Guna2ToggleSwitch();
             this.guna2PictureBox3 = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.btnDangKy = new Guna.UI2.WinForms.Guna2Button();
             this.btnDangNhap = new Guna.UI2.WinForms.Guna2Button();
             this.label1 = new System.Windows.Forms.Label();
             this.txtMatKhau = new Guna.UI2.WinForms.Guna2TextBox();
@@ -61,7 +60,6 @@ namespace QuanLyTiemTraSuaUWU
             this.guna2Panel2.BackColor = System.Drawing.Color.WhiteSmoke;
             this.guna2Panel2.Controls.Add(this.tspass);
             this.guna2Panel2.Controls.Add(this.guna2PictureBox3);
-            this.guna2Panel2.Controls.Add(this.btnDangKy);
             this.guna2Panel2.Controls.Add(this.btnDangNhap);
             this.guna2Panel2.Controls.Add(this.label1);
             this.guna2Panel2.Controls.Add(this.txtMatKhau);
@@ -105,30 +103,6 @@ namespace QuanLyTiemTraSuaUWU
             this.guna2PictureBox3.TabIndex = 7;
             this.guna2PictureBox3.TabStop = false;
             // 
-            // btnDangKy
-            // 
-            this.btnDangKy.Animated = true;
-            this.btnDangKy.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.btnDangKy.BorderRadius = 12;
-            this.btnDangKy.BorderThickness = 2;
-            this.btnDangKy.CheckedState.Parent = this.btnDangKy;
-            this.btnDangKy.CustomImages.Parent = this.btnDangKy;
-            this.btnDangKy.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnDangKy.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnDangKy.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnDangKy.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnDangKy.DisabledState.Parent = this.btnDangKy;
-            this.btnDangKy.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold);
-            this.btnDangKy.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.btnDangKy.HoverState.Parent = this.btnDangKy;
-            this.btnDangKy.Location = new System.Drawing.Point(23, 382);
-            this.btnDangKy.Name = "btnDangKy";
-            this.btnDangKy.ShadowDecoration.Parent = this.btnDangKy;
-            this.btnDangKy.Size = new System.Drawing.Size(129, 43);
-            this.btnDangKy.TabIndex = 6;
-            this.btnDangKy.Text = "Đăng Ký";
-            this.btnDangKy.Click += new System.EventHandler(this.btnDangKy_Click);
-            // 
             // btnDangNhap
             // 
             this.btnDangNhap.Animated = true;
@@ -144,7 +118,7 @@ namespace QuanLyTiemTraSuaUWU
             this.btnDangNhap.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold);
             this.btnDangNhap.ForeColor = System.Drawing.Color.White;
             this.btnDangNhap.HoverState.Parent = this.btnDangNhap;
-            this.btnDangNhap.Location = new System.Drawing.Point(23, 321);
+            this.btnDangNhap.Location = new System.Drawing.Point(23, 347);
             this.btnDangNhap.Name = "btnDangNhap";
             this.btnDangNhap.ShadowDecoration.Parent = this.btnDangNhap;
             this.btnDangNhap.Size = new System.Drawing.Size(129, 43);
@@ -293,7 +267,6 @@ namespace QuanLyTiemTraSuaUWU
         private Guna.UI2.WinForms.Guna2TextBox txtMatKhau;
         private System.Windows.Forms.Label label1;
         private Guna.UI2.WinForms.Guna2Button btnDangNhap;
-        private Guna.UI2.WinForms.Guna2Button btnDangKy;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox3;
         private Guna.UI2.WinForms.Guna2ToggleSwitch tspass;
     }
