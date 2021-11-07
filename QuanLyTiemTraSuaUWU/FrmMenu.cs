@@ -344,7 +344,7 @@ namespace QuanLyTiemTraSuaUWU
                     loadform();
                     loadDGV();
 
-                    MessageBox.Show($"Xóa khách hàng {deletemenu.TenMonAn} thành công", "Thông báo", MessageBoxButtons.OK);
+                    MessageBox.Show($"Xóa {deletemenu.TenMonAn} thành công", "Thông báo", MessageBoxButtons.OK);
                 }
             }
         }
