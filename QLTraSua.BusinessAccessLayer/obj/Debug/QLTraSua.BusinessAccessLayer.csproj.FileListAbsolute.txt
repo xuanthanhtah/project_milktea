@@ -70,3 +70,15 @@ D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\
 D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
 D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
 D:\hutech\Lập trình trên môi trường Windows\do an final\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\QLTraSua.BusinessAccessLayer.pdb
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.dll
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.pdb
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\AppQLTraSua.dataAcessLayer.dll.config
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\bin\Debug\EntityFramework.xml
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.csproj.CopyComplete
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.dll
+C:\Lập Trình Windows\project_milktea\QLTraSua.BusinessAccessLayer\obj\Debug\QLTraSua.BusinessAccessLayer.pdb

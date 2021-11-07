@@ -63,45 +63,90 @@ namespace QuanLyTiemTraSuaUWU
             //Goi phuong thuc truy xuat DL
             return dt;
         }
-       
+
+        public DataTable LayDSHoaDon()
+        {
+            string strSQL = "select *from HOADON";
+            DataTable dt = db.Execute(strSQL);
+            //Goi phuong thuc truy xuat DL
+            return dt;
+        }
+
+        public DataTable LayDSCTHD()
+        {
+            string strSQL = "select *from CTHD";
+            DataTable dt = db.Execute(strSQL);
+            //Goi phuong thuc truy xuat DL
+            return dt;
+        }
+
+
+        //thêm thông tin vào CTHD
+        public void ThemMoiHD(string maHD, string MaKhachHang, string MANV, string MaBan, string ngayban, double tongtien)
+        {
+            string sql = string.Format("INSERT INTO HOADON VALUES('{0}','{1}','{2}',N'{3}','{4}',{5})"
+                 , maHD, MaKhachHang, MANV, MaBan, ngayban, tongtien);
+            db.ExecuteNonQuery(sql);
+        }
+
+        //thêm thông tin vào CTHD
+        public void ThemCTHD(string MaHD, string maMonAn, string TenMonAn, int sl, double gia)
+        {
+            string sql = string.Format("INSERT INTO CTHD VALUES('{0}','{1}', N'{2}', {3}, {4})"
+                 , MaHD, maMonAn, TenMonAn, sl, gia);
+            db.ExecuteNonQuery(sql);
+        }
+
+        //sửa thông tin hóa đơn
+        public void SuaHD(string maHD, string MaKhachHang, string MANV, string MaBan, string ngayban, double tongtien)
+        {
+            string str = string.Format("Update HOADON set MaKhachHang = '{0}', MANV = '{1}',MaBan = N'{2}', NgayXuatHoaDon = '{3}',Tongtien = {4} where MaHoaDon ='{5}'"
+                 , MaKhachHang, MANV, MaBan, ngayban, tongtien, maHD);
+            db.ExecuteNonQuery(str);
+        }
+
+        //sửa thông tin chi tiết hóa đơn
+        public void SuaCTHD(string maHD, string MaMon, string tenMon, int sl, double gia, string maMon)
+        {
+            string str = string.Format("Update CTHD set MaMonAn = '{0}', TenMonAn = N'{1}', Soluong = {2}, DonGia = {3} where MaHoaDon = '{4}' and MaMonAn = '{5}'"
+                 , MaMon, tenMon, sl, gia, maHD, MaMon);
+            db.ExecuteNonQuery(str);
+        }
+
+        public DataTable LayDsMaNV()
+        {
+            string strSQL = "select *from NHANVIEN";
+            DataTable dt = db.Execute(strSQL);
+            //Goi phuong thuc truy xuat DL
+            return dt;
+        }
+
+        public DataTable LayDsMenu()
+        {
+            string strSQL = "select *from MENU";
+            DataTable dt = db.Execute(strSQL);
+            //Goi phuong thuc truy xuat DL
+            return dt;
+        }
+
+        public DataTable LayDsMaBan()
+        {
+            string strSQL = "select *from BAN";
+            DataTable dt = db.Execute(strSQL);
+            //Goi phuong thuc truy xuat DL
+            return dt;
+        }
+        public DataTable LayDsMaMon()
+        {
+            string strSQL = "select *from MENU";
+            DataTable dt = db.Execute(strSQL);
+            //Goi phuong thuc truy xuat DL
+            return dt;
+        }
         // xóa thông tin mã món ăn trong cthd
         public void xoaMaMonAnCTHD(string maHoaDon)
         {
             string sql = string.Format("Delete from CTHD where MaHoaDon='{0}' ", maHoaDon);
-            db.ExecuteNonQuery(sql);
-        }
-
-        //from hóa đơn
-
-        //lấy thông tin hóa đơn
-        public DataTable LayDSHoaDon()
-        {
-            string sql = "SELECT hd.MaHoaDon,MaKhachHang,MANV,MaBan,NgayXuatHoaDon,Tongtien ,*FROM dbo.HOADON hd, dbo.CTHD ct WHERE hd.MaHoaDon= ct.MaHoaDon ";
-            DataTable dt = db.Execute(sql);
-            return dt;
-        }
-
-        // lấy thông tin bàn ăn
-        public DataTable LayDsBan()
-        {
-            string sql = "SELECT *FROM BAN";
-            DataTable dt = db.Execute(sql);
-            return dt;
-        }
-
-        //thêm thông tin vào danh sách hóa đơn
-        public void ThemHoaDon(string maHD, string maKH, int maNV, string maBan, string ngayXuatHD, double tongtien)
-        {
-            string sql = string.Format("INSERT INTO HOADON VALUES('{0}','{1}',(2},N'{3}','{4}',{5})"
-                 , maHD, maKH, maNV, maBan, ngayXuatHD, tongtien);
-            db.ExecuteNonQuery(sql);
-        }
-
-        // cập nhật thông tin hóa đơn
-        public void suaHoaDon(string maHD, string maKH, int maNV, string maBan, string ngayXuatHD, double tongtien)
-        {
-            string sql = string.Format("Update HOADON set MaKhachHang='{0},MANV='{1},MaBan=N'{2}',NgayXuatHoaDon=N'{3}',Tongtien ='{4}',where MaHoaDon ='{5}')"
-              , maKH, maNV, maBan, ngayXuatHD, tongtien, maHD);
             db.ExecuteNonQuery(sql);
         }
 
