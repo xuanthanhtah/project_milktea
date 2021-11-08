@@ -14,7 +14,7 @@ namespace QuanLyTiemTraSuaUWU
 {
     public partial class frmvechungtoi : Form
     {
-        dbqltrasuauwu context = new dbqltrasuauwu();
+        dbQLtrasuauwu context = new dbQLtrasuauwu();
         public frmvechungtoi()
         {
             InitializeComponent();

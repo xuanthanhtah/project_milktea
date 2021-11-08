@@ -16,9 +16,8 @@ namespace QuanLyTiemTraSuaUWU
         //tu thay data soure= ten may cua minh de chay duoc
         public Database()
         {
-            string strCnn = "Data Source=DESKTOP-A644F34\\SQLEXPRESS ; Database=QLTraSuaUwU; UID=sa; PWD=MyPass@Word; Integrated Security = True";
-        
-            sqlConn = new SqlConnection(strCnn);
+             string strCnn = "Data Source=DESKTOP-A644F34\\SQLEXPRESS ; Database=QLTraSuaUwU; UID=sa; PWD=MyPass@Word; Integrated Security = True";
+             sqlConn = new SqlConnection(strCnn);
         }
         //Phuong thuc de thuc hien cau lenh strSQL truy vân du lieu
         public DataTable Execute(string sqlStr)

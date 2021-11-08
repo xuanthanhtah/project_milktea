@@ -14,7 +14,7 @@ namespace QuanLyTiemTraSuaUWU
 {
     public partial class reportmenu : Form
     {
-        dbqltrasuauwu context = new dbqltrasuauwu();
+        dbQLtrasuauwu context = new dbQLtrasuauwu();
         public reportmenu()
         {
             InitializeComponent();

@@ -15,7 +15,7 @@ namespace QuanLyTiemTraSuaUWU
     
     public partial class frmkhachhang : Form
     {
-        dbqltrasuauwu context = new dbqltrasuauwu();
+        dbQLtrasuauwu context = new dbQLtrasuauwu();
         public frmkhachhang()
         {
             InitializeComponent();
@@ -175,6 +175,11 @@ namespace QuanLyTiemTraSuaUWU
         {
             reportkhachhang reportkhachhang = new reportkhachhang();
             reportkhachhang.Show();
+        }
+
+        private void cbbgioitinh_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

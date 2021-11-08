@@ -203,6 +203,7 @@ namespace QuanLyTiemTraSuaUWU
             this.cbbgioitinh.ShadowDecoration.Parent = this.cbbgioitinh;
             this.cbbgioitinh.Size = new System.Drawing.Size(190, 36);
             this.cbbgioitinh.TabIndex = 8;
+            this.cbbgioitinh.SelectedIndexChanged += new System.EventHandler(this.cbbgioitinh_SelectedIndexChanged);
             // 
             // txtsodienthoai
             // 

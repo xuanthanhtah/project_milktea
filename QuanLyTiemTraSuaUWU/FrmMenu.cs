@@ -14,7 +14,7 @@ namespace QuanLyTiemTraSuaUWU
 {
     public partial class FrmMenu : Form
     {
-        dbqltrasuauwu context = new dbqltrasuauwu();
+        dbQLtrasuauwu context = new dbQLtrasuauwu();
         public FrmMenu()
         {
             InitializeComponent();
@@ -24,8 +24,17 @@ namespace QuanLyTiemTraSuaUWU
         {
             List<MENU> mENUs = context.MENUs.ToList();
             List<CTHD> cTHDs = context.CTHDs.ToList();
+            List<NHANVIEN> nHANVIENs = context.NHANVIENs.ToList();
             txtmamonan.Focus();
             laydanhsachmenu(mENUs);
+            laydanhsachnv(nHANVIENs);
+        }
+
+        private void laydanhsachnv(List<NHANVIEN> nHANVIENs)
+        {
+            this.cbbmanv.DataSource = nHANVIENs;
+            this.cbbmanv.DisplayMember = "MANV";
+            this.cbbmanv.ValueMember = "MANV";
         }
 
         private void laydanhsachmenu(List<MENU> mENUs)
@@ -163,7 +172,7 @@ namespace QuanLyTiemTraSuaUWU
 
         private bool checksoluongvamahoadon()
         {
-            if (txtSoluong.Text == "" || txtmahoadon.Text == "" || txtmanv.Text == "" || txtdongia.Text == "" || txtmamonan.Text == "" || txtmota.Text == "" || txttenmonan.Text == "")
+            if (txtSoluong.Text == "" || txtmahoadon.Text == "" || cbbmanv.Text == "" || txtdongia.Text == "" || txtmamonan.Text == "" || txtmota.Text == "" || txttenmonan.Text == "")
             {
                 MessageBox.Show("Vui lòng nhập đủ thông tin");
                 return false;
@@ -188,7 +197,7 @@ namespace QuanLyTiemTraSuaUWU
                 CTHD cTHD = new CTHD();
                 HOADON hOADON = new HOADON();
                 hOADON.MaHoaDon = txtmahoadon.Text;
-                hOADON.MANV = Convert.ToInt32(txtmanv.Text);
+                hOADON.MANV = Convert.ToInt32(cbbmanv.Text);
                 cTHD.MaHoaDon = txtmahoadon.Text;
                 cTHD.MaMonAn = txtmamonan.Text;
                 cTHD.TenMonAn = txttenmonan.Text;
@@ -216,7 +225,7 @@ namespace QuanLyTiemTraSuaUWU
                     mENU.MaMonAn = txtmamonan.Text;
                     mENU.TenMonAn = txttenmonan.Text;
                     mENU.MoTa = txtmota.Text;
-                    mENU.MANV = Convert.ToInt32(txtmanv.Text);
+                    mENU.MANV = Convert.ToInt32(cbbmanv.Text);
                     mENU.DonGia = Convert.ToInt32(txtdongia.Text);
 
                     context.MENUs.AddOrUpdate(mENU);
@@ -261,14 +270,13 @@ namespace QuanLyTiemTraSuaUWU
             txttenmonan.Clear();
             txtmota.Clear();
             txtdongia.Clear();
-            txtmanv.Clear();
             txtSoluong.Clear();
             txtmamonan.Focus();
         }
 
         private bool checkdatainput()
         {
-            if (txtmamonan.Text == "" || txttenmonan.Text == "" || txtdongia.Text == "" || txtmota.Text == "" || txtmanv.Text == "")
+            if (txtmamonan.Text == "" || txttenmonan.Text == "" || txtdongia.Text == "" || txtmota.Text == "" || cbbmanv.Text == "")
             {
                 MessageBox.Show("Vui lòng nhập đầy đủ thông tin món ăn cần thêm");
                 return false;
@@ -353,6 +361,11 @@ namespace QuanLyTiemTraSuaUWU
         {
             if (MessageBox.Show("bạn có chắc chắn muốn thoát?", "Thông báo", MessageBoxButtons.YesNo) == DialogResult.Yes)
                 Close();
+        }
+
+        private void guna2Panel3_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

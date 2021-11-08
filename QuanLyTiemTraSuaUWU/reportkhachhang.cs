@@ -14,7 +14,7 @@ namespace QuanLyTiemTraSuaUWU
 {
     public partial class reportkhachhang : Form
     {
-        dbqltrasuauwu context = new dbqltrasuauwu();
+        dbQLtrasuauwu context = new dbQLtrasuauwu();
         public reportkhachhang()
         {
             InitializeComponent();

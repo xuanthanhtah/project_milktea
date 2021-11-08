@@ -24,7 +24,7 @@ namespace QuanLyTiemTraSuaUWU
             if (frm == null)
             {
                 FrmMenu frmMenu = new FrmMenu();
-                //frmMenu.MdiParent = this;
+                frmMenu.MdiParent = this;
                 frmMenu.Show();
             }
             else
@@ -39,7 +39,7 @@ namespace QuanLyTiemTraSuaUWU
             if (frm == null)
             {
                 frmBan frmBan = new frmBan();
-                //frmBan.MdiParent = this;
+                frmBan.MdiParent = this;
                 frmBan.Show();
             }
             else
@@ -56,7 +56,7 @@ namespace QuanLyTiemTraSuaUWU
             if (frm == null)
             {
                 frmDoanhThu frmDoanhThu = new frmDoanhThu();
-                //frmDoanhThu.MdiParent = this;
+                frmDoanhThu.MdiParent = this;
                 frmDoanhThu.Show();
             }
             else
@@ -71,7 +71,7 @@ namespace QuanLyTiemTraSuaUWU
             if (frm == null)
             {
                 frmHoaDon frmHoaDon = new frmHoaDon();
-                //frmHoaDon.MdiParent = this;
+                frmHoaDon.MdiParent = this;
                 frmHoaDon.Show();
             }
             else
@@ -86,7 +86,7 @@ namespace QuanLyTiemTraSuaUWU
             if (frm == null)
             {
                 frmNhanVien frmNhanVien = new frmNhanVien();
-                //frmHoaDon.MdiParent = this;
+                frmHoaDon.MdiParent = this;
                 frmNhanVien.Show();
             }
             else
@@ -101,7 +101,7 @@ namespace QuanLyTiemTraSuaUWU
             if (frm == null)
             {
                 frmkhachhang frmkhachhang = new frmkhachhang();
-                //frmkhachhang.MdiParent = this;
+                frmkhachhang.MdiParent = this;
                 frmkhachhang.Show();
             }
             else
@@ -116,13 +116,18 @@ namespace QuanLyTiemTraSuaUWU
             if (frm == null)
             {
                 frmvechungtoi frmvechungtoi = new frmvechungtoi();
-                //frmkhachhang.MdiParent = this;
+                frmvechungtoi.MdiParent = this;
                 frmvechungtoi.Show();
             }
             else
             {
                 frm.Activate();
             }
+        }
+
+        private void frmmain_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -25,7 +25,7 @@ namespace QuanLyTiemTraSuaUWU
         {
             List<NHANVIEN> danhSachNhanVien;
 
-            using (var dbcontext = new dbqltrasuauwu())
+            using (var dbcontext = new dbQLtrasuauwu())
             {
                 danhSachNhanVien = dbcontext.NHANVIENs.ToList();
             }
@@ -85,7 +85,7 @@ namespace QuanLyTiemTraSuaUWU
 
             try
             {
-                using (var dbcontext = new dbqltrasuauwu())
+                using (var dbcontext = new dbQLtrasuauwu())
                 {
                     dbcontext.NHANVIENs.Add(nv);
                     dbcontext.SaveChanges();// done
@@ -105,7 +105,7 @@ namespace QuanLyTiemTraSuaUWU
 
             try
             {
-                using (var dbcontext = new dbqltrasuauwu())
+                using (var dbcontext = new dbQLtrasuauwu())
                 {
 
                     var nhanVien = (from a in dbcontext.NHANVIENs
@@ -143,7 +143,7 @@ namespace QuanLyTiemTraSuaUWU
         {
             try
             {
-                using (var dbcontext = new dbqltrasuauwu())
+                using (var dbcontext = new dbQLtrasuauwu())
                 {
                     var nhanVien = (from nv in dbcontext.NHANVIENs
                                     where nv.MANV == maNV
@@ -170,7 +170,7 @@ namespace QuanLyTiemTraSuaUWU
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("bạn muốn thoát ???", " thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes) ;
+            if (MessageBox.Show("bạn muốn thoát ???", " thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             Close();
         }
 

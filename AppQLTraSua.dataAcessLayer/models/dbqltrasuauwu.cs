@@ -5,10 +5,10 @@ using System.Linq;
 
 namespace AppQLTraSua.dataAcessLayer.models
 {
-    public partial class dbqltrasuauwu : DbContext
+    public partial class dbQLtrasuauwu : DbContext
     {
-        public dbqltrasuauwu()
-            : base("name=dbqltrasuauwu")
+        public dbQLtrasuauwu()
+            : base("name=dbQLtrasuauwu")
         {
         }
 

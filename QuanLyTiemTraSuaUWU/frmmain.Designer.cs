@@ -128,8 +128,10 @@ namespace QuanLyTiemTraSuaUWU
             this.BackgroundImage = global::QuanLyTiemTraSuaUWU.Properties.Resources.UWU__1_;
             this.ClientSize = new System.Drawing.Size(1033, 506);
             this.Controls.Add(this.menuStrip1);
+            this.IsMdiContainer = true;
             this.Name = "frmmain";
             this.Text = "frmmain";
+            this.Load += new System.EventHandler(this.frmmain_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

@@ -53,7 +53,7 @@
     <Compile Include="models\BAN.cs" />
     <Compile Include="models\CHUCVU.cs" />
     <Compile Include="models\CTHD.cs" />
-    <Compile Include="models\dbqltrasuauwu.cs" />
+    <Compile Include="models\dbQLtrasuauwu.cs" />
     <Compile Include="models\HOADON.cs" />
     <Compile Include="models\KHACHHANG.cs" />
     <Compile Include="models\MENU.cs" />
