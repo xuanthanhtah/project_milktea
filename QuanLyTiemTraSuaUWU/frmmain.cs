@@ -86,7 +86,7 @@ namespace QuanLyTiemTraSuaUWU
             if (frm == null)
             {
                 frmNhanVien frmNhanVien = new frmNhanVien();
-                frmHoaDon.MdiParent = this;
+                frmNhanVien.MdiParent = this;
                 frmNhanVien.Show();
             }
             else

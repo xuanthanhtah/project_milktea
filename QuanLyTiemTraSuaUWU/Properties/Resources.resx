@@ -124,46 +124,13 @@
   <data name="logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="notify" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\notify.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sua_chua_dau_tam_hoang_kim" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sua-chua-dau-tam-hoang-kim.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tra_sua_3_anh_em" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tra sua 3 anh em.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tra_sua_bac_ha" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tra sua bac ha.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tra_sua_chan_trau_hoàng_gia" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tra sua chan trau hoàng gia.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tra_sua_dau_tay" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tra sua dau tay.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tra_sua_khoai_mon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tra sua khoai mon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tra_sua_kim_cuong_den" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tra sua kim cuong den.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tra_sua_o_long" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tra sua o long.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tra_sua_panda" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tra sua panda.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="tra_sua_vi_nhai" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\tra sua vi nhai.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  
+  
   <data name="UWU" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\UWU.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="UWU__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\UWU (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_3_sọc" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3 sọc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  
 </root>

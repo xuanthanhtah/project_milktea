@@ -63,16 +63,6 @@ namespace QuanLyTiemTraSuaUWU.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _3_sọc {
-            get {
-                object obj = ResourceManager.GetObject("_3_sọc", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap logo {
             get {
                 object obj = ResourceManager.GetObject("logo", resourceCulture);
@@ -86,116 +76,6 @@ namespace QuanLyTiemTraSuaUWU.Properties {
         internal static System.Drawing.Bitmap logo1 {
             get {
                 object obj = ResourceManager.GetObject("logo1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap notify {
-            get {
-                object obj = ResourceManager.GetObject("notify", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap sua_chua_dau_tam_hoang_kim {
-            get {
-                object obj = ResourceManager.GetObject("sua_chua_dau_tam_hoang_kim", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap tra_sua_3_anh_em {
-            get {
-                object obj = ResourceManager.GetObject("tra_sua_3_anh_em", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap tra_sua_bac_ha {
-            get {
-                object obj = ResourceManager.GetObject("tra_sua_bac_ha", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap tra_sua_chan_trau_hoàng_gia {
-            get {
-                object obj = ResourceManager.GetObject("tra_sua_chan_trau_hoàng_gia", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap tra_sua_dau_tay {
-            get {
-                object obj = ResourceManager.GetObject("tra_sua_dau_tay", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap tra_sua_khoai_mon {
-            get {
-                object obj = ResourceManager.GetObject("tra_sua_khoai_mon", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap tra_sua_kim_cuong_den {
-            get {
-                object obj = ResourceManager.GetObject("tra_sua_kim_cuong_den", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap tra_sua_o_long {
-            get {
-                object obj = ResourceManager.GetObject("tra_sua_o_long", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap tra_sua_panda {
-            get {
-                object obj = ResourceManager.GetObject("tra_sua_panda", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap tra_sua_vi_nhai {
-            get {
-                object obj = ResourceManager.GetObject("tra_sua_vi_nhai", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -142,6 +142,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="reportkhachhang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -185,14 +190,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <EmbeddedResource Include="reportkhachhang.resx">
       <DependentUpon>reportkhachhang.cs</DependentUpon>
     </EmbeddedResource>
@@ -235,42 +235,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\UWU %281%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3 sọc.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\notify.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tra sua o long.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tra sua panda.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tra sua vi nhai.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tra sua dau tay.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sua-chua-dau-tam-hoang-kim.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tra sua 3 anh em.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tra sua bac ha.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tra sua khoai mon.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tra sua kim cuong den.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tra sua chan trau hoàng gia.jpg" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AppQLTraSua.dataAcessLayer\AppQLTraSua.dataAcessLayer.csproj">
